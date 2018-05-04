@@ -36,11 +36,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Catamaran', 'Lato', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
-
+#title {
+  letter-spacing: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+}
 p {
   font-size: 18px;
   line-height: 1.5;
